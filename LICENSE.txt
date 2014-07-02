@@ -1,9 +1,6 @@
 Unless otherwise noted, all files in this distribution are released
 under the Common Development and Distribution License (CDDL) 1.0
-and GNU Public License 2.0 licenses.
-Unless otherwise noted, all files in this distribution are released
-under the Common Development and Distribution License (CDDL).
-Exceptions are noted within the associated source files.
+and GNU Public License 2.0 licenses. Exceptions are noted within the associated source files.
 
 --------------------------------------------------------------------
 
